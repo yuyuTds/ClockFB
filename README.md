@@ -14,7 +14,7 @@ Pull request（改善したプログラムの公開）、Issue（質問、バグ
 - ClockFB.csm2を使用する場合：  
   SysmacStudioがインストールされたPCで、ダウンロードした「ClockFB.csm2」をダブルクリックすると、本プログラムが開きます。
   使用したいプロジェクトにファンクションブロックをコピーしてください。
-- ClockFB.csm2を使用する場合：  
+- ClockFB.slrを使用する場合：  
   「[Sysmac Studio Version 1 オペレーションマニュアル (SBCA-470)](https://www.fa.omron.co.jp/products/family/3077/download/manual.html)」の「9-3-2 ライブラリの利用」を参照してください。
 
   
